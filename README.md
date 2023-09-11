@@ -1,4 +1,4 @@
 # OCR image form to entities
-MindHive Technical Interview
-Time limit: 4 days
-Current progress: OCR-Forms-MindHive.ipynb
+MindHive Technical Interview <br>
+Time limit: 4 days <br>
+Current progress: OCR-Forms-MindHive.ipynb <br>
